@@ -37,24 +37,24 @@ hr {
 
 /************class tags*********/
 
-.top-container{
+.top-container {
   background-color: #E4F9F5;
   position: relative;
   padding-top: 100px;
 }
 
-.middle-container{
+.middle-container {
   margin: 50px 0 50px 0;
 }
 
-.bottom-container{
+.bottom-container {
   background-color: #66BFBF;
   padding: 25px 0 16px;
 }
 
 .skill-row {
   width: 50%;
-  margin: 50px auto 50px auto;
+  margin: 50px auto 150px auto;
   text-align: left;
 }
 
@@ -81,13 +81,13 @@ hr {
   margin: 40px 30px 25px 0;
 }
 
-.electronics{
+.electronics {
   width: 25%;
   float: right;
   margin: 25px 0 25px 30px;
 }
 
-.intro{
+.intro {
   width: 30%;
   margin: auto;
 }
